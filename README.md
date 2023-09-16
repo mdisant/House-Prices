@@ -14,13 +14,15 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Install dependencies by running the following line:
+```python
+pip install -r config/requirements.txt
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+1) How to run the program
+2) Step-by-step bullets
 ```
 code blocks for commands
 ```
