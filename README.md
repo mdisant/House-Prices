@@ -39,7 +39,7 @@ An in-depth paragraph about your project and overview of use.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->>
+<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Dependencies
