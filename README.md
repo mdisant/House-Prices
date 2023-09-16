@@ -44,9 +44,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- Acknowledgments -->
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Inspiration for this project:
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
