@@ -24,8 +24,6 @@ code blocks for commands
 
 ## Authors
 
-Contributors names and contact info
-
 Michael DiSanto
 [@themikedisanto](https://twitter.com/themikedisanto)
 
