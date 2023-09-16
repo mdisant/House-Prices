@@ -21,9 +21,10 @@ pip install -r config/requirements.txt
 
 ### Executing program
 
-1) Open the notebook.ipynb Jupyter Notebook file in an IDE of your choice.
-2) Run each cell in the notebook.
-3) The submission.csv file is the output file.
+1) Download the [data](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) and save it in the data/ directory.
+2) Open the notebook.ipynb Jupyter Notebook file in an IDE of your choice.
+3) Run each cell in the notebook.
+4) The submission.csv file is the output file.
 
 
 <!-- LICENSE -->
@@ -37,4 +38,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Michael DiSanto - [@themikedisanto](https://twitter.com/themikedisanto) - mikepdi@yahoo.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [house-prices](https://github.com/mdisant/house-prices)

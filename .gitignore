@@ -1,5 +1,8 @@
 # Data Files
-data/
+data/data_description.txt
+data/test.csv
+data/train.csv
+data/sample_submission.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
