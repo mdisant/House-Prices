@@ -29,7 +29,7 @@ Michael DiSanto
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.txt file for details
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
