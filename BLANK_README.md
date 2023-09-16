@@ -27,7 +27,7 @@ code blocks for commands
 Contributors names and contact info
 
 Michael DiSanto
-[@themichaeldisanto](https://twitter.com/themichaeldisanto)
+[@themikedisanto](https://twitter.com/themikedisanto)
 
 
 ## License
