@@ -2,5 +2,7 @@ numpy
 pandas
 sklearn
 scipy
+tensorflow
+tensorflow_decision_forests
 seaborn
 matplotlib
