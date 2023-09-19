@@ -3,6 +3,7 @@ data/data_description.txt
 data/test.csv
 data/train.csv
 data/sample_submission.csv
+data/submission.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
